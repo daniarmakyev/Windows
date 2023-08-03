@@ -1,0 +1,44 @@
+.logo img {
+    float: left;
+}
+.header-btn {
+    float: right;
+    padding-top: 25px;
+}
+
+.active-nav {
+    border-top: #EF7F04 solid 3px;
+    margin-top: -3px;
+}
+.btn2 {
+    background-color: #3B3A63;
+    border-radius: 3px;
+    border: none;
+    height: 40px;
+    display: inline-block;
+    color: #fff;
+    font-size: 13px;
+    padding-left: 47px;
+    padding-right: 19px;
+    cursor: pointer;
+    background-image: url(../img/btn2.svg);
+    background-repeat: no-repeat;
+    background-position: 10px 10px;
+}
+
+
+.btn1 {
+    color: #fff;
+    font-size: 13px;
+    padding-left: 47px;
+    padding-right: 19px;
+    background-color: #EF7F04;
+    border-radius: 3px;
+    border: none;
+    height: 40px;
+    display: inline-block;
+    cursor: pointer;
+    background-image: url(../img/btn1.svg);
+    background-repeat: no-repeat;
+    background-position: 10px 10px;
+}
