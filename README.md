@@ -44,4 +44,4 @@
 - [Макыев Данияр] — Front-End developer
 
 ## Источники
-[Figma](https://www.figma.com/file/jQ4cfanZXfDBmsXOyDh6ol/Realco-project?type=design&node-id=8-62&mode=design&t=5bN43qYv8CAcgQSP-0)
+[Figma](https://www.figma.com/file/ZSweoUdNocvDTQTVtH6fZZ/window-haus?type=design&node-id=15-264&mode=design&t=J968tDFSwfeJH5Ft-0)
