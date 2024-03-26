@@ -38,10 +38,6 @@
 ```
 ![logo](img/header-pic-md.PNG)
 
-## Команда проекта
-
-
-- [Макыев Данияр] — Front-End developer
 
 ## Источники
 [Figma](https://www.figma.com/file/ZSweoUdNocvDTQTVtH6fZZ/window-haus?type=design&node-id=15-264&mode=design&t=J968tDFSwfeJH5Ft-0)
